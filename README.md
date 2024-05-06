@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Rodrigo Sobral ✋🏽
 
 * 📍 Moro em São Paulo - SP
-* 📚 Estou estudando pra ser Engenheiro de Dados!
+* 📚 Estou estudando pra ser Analista de Dados!
 
 * Minha rede Social 
 
